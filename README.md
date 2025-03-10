@@ -17,4 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laka02&show_icons=true&locale=en" alt="laka02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laka02&" alt="laka02" /></p>
